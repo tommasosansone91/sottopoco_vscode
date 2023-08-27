@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
-
+import os
 
 
 
@@ -35,7 +35,6 @@ def convert_matplotlib_to_opencv_img(matplotlib_format_img: object, clear=False,
 
         cv2_imread_format_img = cv2.imread(transitory_img_path)
 
-        import os
         try: 
             os.remove(transitory_img_path)
         except: 
