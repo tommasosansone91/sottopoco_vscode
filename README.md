@@ -3,7 +3,7 @@
 
 
 <div style="text-align:center">
-	<img src="https://raw.githubusercontent.com/tommasosansone91/sottopoco_vscode/main/images/sottopoco_vscode1.png" style="width:60%;" align="middle" alt="cover of sottopoco_vscode python package" >
+	<img src="https://raw.githubusercontent.com/tommasosansone91/sottopoco_vscode/main/images/sottopoco_vscode1.png" style="width:100%;" align="middle" alt="cover of sottopoco_vscode python package" >
 </div>
 
 <br>
