@@ -25,7 +25,7 @@ The objects in this package are grouped into different categories:
 - converters:    They convert an image from a format to another ( objects handled by matplotlib.pyplot.plot() into objects handled by cv2.imread() )
 - painters:      They allow to paint many images at once, save time in defining windows names, setting the conditions to close the windows, etc.   
 
-Please note that the function <code>cyclical_drawing'</code> might be very CPU and RAM consuming, 
+Please note that the function <code>cyclical_drawing</code> might be very CPU and RAM consuming, 
 and should be used only to display images we want to 'real-time' draw on.
 
 """
