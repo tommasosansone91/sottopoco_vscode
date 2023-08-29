@@ -4,3 +4,5 @@ __pycache__
 build
 sottopoco_vscode.egg-info
 dist
+venv_sottopoco
+scratches
