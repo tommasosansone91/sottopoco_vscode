@@ -6,7 +6,7 @@ from long_description import LONG_DESCRIPTION
 
 from rewrite_readme import rewrite_readme
 
-VERSION = '0.0.2' 
+VERSION = '0.0.3' 
 
 DESCRIPTION = 'Simple tools to practice with opencv on VScode in place of Jupyter Notebooks.'
 
